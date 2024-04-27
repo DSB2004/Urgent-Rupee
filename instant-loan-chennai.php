@@ -83,7 +83,7 @@
                         <path d="M259.856,120H0V0H274l43,37.481Z" />
                     </svg>
                     <a href="/">
-                        <img src="assets/images/logo-dark.png" width="140" height="51" loading="lazy" alt="Urgentrupee">
+                        <img src="assets/images/logo-dark.png" width="140" height="51" alt="Urgentrupee">
                     </a>
                 </div>
                 <div class="main-menu__nav">
