@@ -1,11 +1,8 @@
 .apexcharts-canvas {
   position: relative;
   user-select: none;
-  /* cannot give overflow: hidden as it will crop tooltips which overflow outside chart area */
 }
 
-
-/* scrollbar is not visible by default for legend, hence forcing the visibility */
 .apexcharts-canvas ::-webkit-scrollbar {
   -webkit-appearance: none;
   width: 6px;
@@ -423,7 +420,6 @@
 .svg_select_points {
   fill: #efefef;
   stroke: #333;
-  rx: 2;
 }
 
 .apexcharts-svg.apexcharts-zoomable.hovering-zoom {
