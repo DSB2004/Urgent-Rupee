@@ -147,56 +147,49 @@
         <!-- city section -->
 
         <section class="city-section">
-            <p class="city-content-p">Looking for Instant Loan in Delhi? Fear not, UrgentRupee is here to provide you
-                with a loan in just 15 minutes. Our main motive is to provide the loan in 15 minutes to the people of
-                delhi. You may have good or bad experience regarding loan process but Urgentrupee loan provide you
-                hassle free loan in 15 minutes. We required few basic documents that must be available either in your
-                mobile or in your drawer.
-            </p>
             <?php include "includes/loan-feature.php" ?>
             <article>
                 <h1 class="city-content-h1">Get Instant Loan in Delhi NCR with Fast Disbursal</h1>
                 <p class="city-content-p">
-                    Delhi, the captivating capital of India, attracts people from all around the world. Besides being
-                    the political center, it's also a significant economic hub, providing various opportunities for
-                    everyone. Delhi is renowned for providing opportunities to a diverse range of professions. It's a
-                    city that seems to cater to almost every dream. Conversely, Delhi's reputation as one of India's
-                    costliest cities can pose financial difficulties for the people living here.
+                    Delhi, India’s capital is a center of attraction from all over the world for its opportunities.
+                    Delhi has something for everyone, be it politics or business.
                     <br />
                     <br />
-                    So, if you're someone from Delhi who's looking for easy loan solutions, you can apply for a
-                    substantial Instant Loan through Urgentrupee to manage your finances effectively. Urgentrupee is
-                    among India's top financial institutions, offering you the best solutions for all your financial
-                    needs. Whether it's for planning a dream wedding, funding your dream vacation, renovating your home,
-                    handling medical emergencies, or any other pressing financial requirement, you can easily avail a
-                    personal loan service in Delhi of up to ₹5 Lakh, that too with minimal paperwork and at an
-                    affordable interest rate.
+                    However, living in Delhi, known as one of India's most expensive cities, can bring financial
+                    challenges.
+                    <br />
+                    <br />
+                    If you are in Delhi and need a convenient loan solution, Urgent Rupee offers Instant Loans to help
+                    you manage your finances smoothly. As one of India's top financial institutions, Urgent Rupee is
+                    committed to providing the best solutions for your financial needs. You can easily avail an Instant
+                    Loan service in Delhi of up to ₹5 Lakh, that too with minimal paperwork and at an affordable
+                    interest rate. Join us today and take control of your finances today.
                 </p>
 
             </article>
             <article>
                 <h1 class="city-content-h1">Why choose Urgent Rupee for instant loans in Delhi?</h1>
                 <p class="city-content-p">
-                    Delhi, the captivating capital of India, attracts people from all around the world. Besides being
-                    the political center, it's also a significant economic hub, providing various opportunities for
-                    everyone. Delhi is renowned for providing opportunities to a diverse range of professions. It's a
-                    city that seems to cater to almost every dream. Conversely, Delhi's reputation as one of India's
-                    costliest cities can pose financial difficulties for the people living here.
+                    Are you in need of funds for unexpected expenses? If yes, then your search ends here. Urgent Rupee
+                    extends instant loans designed to address your immediate needs swiftly.It is a perfect solution for
+                    hassle-free instant loans.
                     <br />
                     <br />
-                    So, if you're someone from Delhi who's looking for easy loan solutions, you can apply for a
-                    substantial Instant Loan through Urgentrupee to manage your finances effectively. Urgentrupee is
-                    among India's top financial institutions, offering you the best solutions for all your financial
-                    needs. Whether it's for planning a dream wedding, funding your dream vacation, renovating your home,
-                    handling medical emergencies, or any other pressing financial requirement, you can easily avail a
-                    personal loan service in Delhi of up to ₹5 Lakh, that too with minimal paperwork and at an
-                    affordable interest rate.
+                    At Urgent Rupee we provide instant loans upto Rs.5 lakhs with flexible repayment options ranging
+                    from 3 to 36 months. We provide applications which are digital and user friendly.
+                    <br />
+                    <br />
+                    You only need to fill the application form and submit for evaluation. Your loans will be approved
+                    instantly if your details match our criteria. Expect the funds to be transferred into your bank
+                    account directly within a few hours, ensuring an effortless experience for your urgent financial
+                    requirements.
+
                 </p>
             </article>
             <article>
                 <h1 class="city-content-h1">Documents Required to Apply for a Loan in Delhi NCR</h1>
-                <p class="city-content-p">We at Urgentrupee try to keep the paperwork process as minimal as
-                    possible for your convenience, especially in Delhi NCR. Some essential documents include </p>
+                <p class="city-content-p">Urgent Rupee allows both employed and self-employed individuals to access
+                    immediate cash loans easily. </p>
                 <?php include "includes/docs-req.php" ?>
             </article>
 
