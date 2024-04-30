@@ -4,7 +4,34 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Salary Advance Loan | instant loan in 14 Minutes | Contact Us Now</title>
+    <title>Apply for Instant Cash Loan in Pune | Low Interest Rate 14 Min</title>
+
+    <meta name="description"
+        content="Instant cash loans in Pune with low-interest rates! Get the funds you need within 14 minutes. Whether it's an urgent expense or a planned investment, we've got you covered. Our hassle-free application process ensures quick approval, making financial emergencies easier to handle. Apply now and experience the convenience of fast cash with minimal interest rates in Pune! " />
+
+    <link rel="canonical" href="https://www.urgentrupee.com/instant-loan-pune.php" />
+
+    <!-- <h1>Instant Loan in Pune </h1> -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=" Apply for Instant Cash Loan in Pune | Low Interest Rate 14 Min ">
+    <meta property="og:description"
+        content="Instant cash loans in Pune with low-interest rates! Get the funds you need within 14 minutes. Whether it's an urgent expense or a planned investment, we've got you covered. Our hassle-free application process ensures quick approval, making financial emergencies easier to handle. Apply now and experience the convenience of fast cash with minimal interest rates in Pune!">
+    <meta property="og:url" content="https://www.urgentrupee.com/instant-loan-pune.php">
+    <meta property="og:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta content="index, follow" name="robots" />
+    <meta content="all, follow" name="googlebot" />
+    <meta content="all, follow" name="yahoobot" />
+    <meta content="all, follow" name="msnbot" />
+    <meta content="all, follow" name="bingbot" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Urgentrupee ">
+    <meta name="twitter:title" content="Apply for Instant Cash Loan in Pune | Low Interest Rate 14 Min">
+    <meta name="twitter:description"
+        content=" Instant cash loans in Pune with low-interest rates! Get the funds you need within 14 minutes. Whether it's an urgent expense or a planned investment, we've got you covered. Our hassle-free application process ensures quick approval, making financial emergencies easier to handle. Apply now and experience the convenience of fast cash with minimal interest rates in Pune!">
+    <meta name="twitter:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta name="twitter:image:alt" content="urgentrupee.com">
+
 
     <meta name="description"
         content="Quick loans available in key Indian cities: Delhi, Mumbai, Hyderabad, Bangalore, and Kolkata. Contact us for quick financial solutions.">
@@ -190,8 +217,9 @@
             <article>
                 <h1 class="city-content-h1">Documents Required to Apply for a Loan in Pune Area
                 </h1>
-                <p class="city-content-p">Urgent Rupee allows both employed and self-employed individuals can access immediate cash loans easily
-</p>
+                <p class="city-content-p">Urgent Rupee allows both employed and self-employed individuals can access
+                    immediate cash loans easily
+                </p>
                 <?php include "includes/docs-req.php" ?>
             </article>
 

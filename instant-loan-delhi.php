@@ -4,7 +4,33 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Salary Advance Loan | instant loan in 14 Minutes | Contact Us Now</title>
+    <title>Apply for Instant Cash Loan in Delhi| Low Interest Rate 14 Min</title>
+
+    <meta name="description" content="Apply for instant loans online with UrgentRupee. We offer quick loans up to Rs. 5 lakhs within 14 minutes at minimal interest in Delhi. Fill up the required details and meet our criteria to have the loans deposited into your bank account as soon as possible!”>
+
+<link rel=" canonical" href="https://www.urgentrupee.com/instant-loan-delhi.php" />
+
+    <!-- <h1>Instant Loan Delhi</h1> -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=" Apply for Instant Cash Loan in Delhi| Low Interest Rate 14 Min">
+    <meta property="og:description"
+        content=" Apply for instant loans online with UrgentRupee. We offer quick loans up to Rs. 5 lakhs within 14 minutes at minimal interest in Delhi. Fill up the required details and meet our criteria to have the loans deposited into your bank account as soon as possible!">
+    <meta property="og:url" content="https://www.urgentrupee.com/instant-loan-delhi.php">
+    <meta property="og:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta content="index, follow" name="robots" />
+    <meta content="all, follow" name="googlebot" />
+    <meta content="all, follow" name="yahoobot" />
+    <meta content="all, follow" name="msnbot" />
+    <meta content="all, follow" name="bingbot" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Urgentrupee ">
+    <meta name="twitter:title" content="Apply for Instant Cash Loan in Delhi| Low Interest Rate 14 Min">
+    <meta name="twitter:description"
+        content=" Connect with us for all types of loan requirements in Delhi NCR such as instant loans, cash loans, and short-term loans falling in the range of 10k to 1 lakh.">
+    <meta name="twitter:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta name="twitter:image:alt" content="urgentrupee.com">
+
 
     <meta name="description"
         content="Quick loans available in key Indian cities: Delhi, Mumbai, Hyderabad, Bangalore, and Kolkata. Contact us for quick financial solutions.">

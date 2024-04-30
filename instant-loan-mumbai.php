@@ -4,7 +4,34 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Salary Advance Loan | instant loan in 14 Minutes | Contact Us Now</title>
+    <title>Instant Cash Loan in Mumbai - Get Funds in 14 Min with Urgentrupee</title>
+
+    <meta
+        name="Instant Cash Loan in 14 to 15 Min in Mumbai ✓ Loan Starting from 5,000 unto 5 Lakhs to Fullfill Your Urgent Cash Requirements ✓ Apply in 3 Mins." />
+
+    <link rel="canonical" href="https://www.urgentrupee.com/instant-loan-mumbai.php" />
+
+    <!-- <h1>Instant Loan Mumbai</h1> -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=" Instant Cash Loan in Mumbai - Get Funds in 14 Min with Urgentrupee ">
+    <meta property="og:description"
+        content=" Apply for instant loans in Mumbai online with minimal paperwork at UrgentRupee. Check your eligibility for the loan and get approved for up to Rs. 5 lakhs within a few hours. Visit our website now!">
+    <meta property="og:url" content="https://www.urgentrupee.com/instant-loan-mumbai.php">
+    <meta property="og:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta content="index, follow" name="robots" />
+    <meta content="all, follow" name="googlebot" />
+    <meta content="all, follow" name="yahoobot" />
+    <meta content="all, follow" name="msnbot" />
+    <meta content="all, follow" name="bingbot" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Urgentrupee ">
+    <meta name="twitter:title" content="Instant Cash Loan in Mumbai - Get Funds in 14 Min with Urgentrupee">
+    <meta name="twitter:description"
+        content="Instant Cash Loan in 14 to 15 Min in Mumbai ✓ Loan Starting from 5,000 unto 5 Lakhs to Fullfill Your Urgent Cash Requirements ✓ Apply in 3 Mins">
+    <meta name="twitter:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta name="twitter:image:alt" content="urgentrupee.com">
+
 
     <meta name="description"
         content="Quick loans available in key Indian cities: Delhi, Mumbai, Hyderabad, Bangalore, and Kolkata. Contact us for quick financial solutions.">

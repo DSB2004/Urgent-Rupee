@@ -4,7 +4,34 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Salary Advance Loan | instant loan in 14 Minutes | Contact Us Now</title>
+    <title>Instant Personal Loan in Chennai | Low Interest Rates in 14 Min</title>
+
+    <meta name="description"
+        content="Get Instant loans at UrgentRupee in Chennai with instant approval and hassle-free paperwork. Grab your chance to take control of your finances with a minimal rate of interest on borrowed funds. Apply now! " />
+
+    <link rel="canonical" href="https://www.urgentrupee.com/instant-loan-chennai.php" />
+
+    <!-- <h1>Instant Loan in Chennai</h1> -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=" Instant Personal Loan in Chennai | Low Interest Rates in 14 Min ">
+    <meta property="og:description"
+        content="Get Instant loans at UrgentRupee in Chennai with instant approval and hassle-free paperwork. Grab your chance to take control of your finances with a minimal rate of interest on borrowed funds. Apply now!">
+    <meta property="og:url" content="https://www.urgentrupee.com/instant-loan-chennai.php">
+    <meta property="og:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta content="index, follow" name="robots" />
+    <meta content="all, follow" name="googlebot" />
+    <meta content="all, follow" name="yahoobot" />
+    <meta content="all, follow" name="msnbot" />
+    <meta content="all, follow" name="bingbot" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Urgentrupee ">
+    <meta name="twitter:title" content="Instant Personal Loan in Chennai | Low Interest Rates in 14 Min">
+    <meta name="twitter:description"
+        content=" Get Instant loans at UrgentRupee in Chennai with instant approval and hassle-free paperwork. Grab your chance to take control of your finances with a minimal rate of interest on borrowed funds. Apply now! ">
+    <meta name="twitter:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta name="twitter:image:alt" content="urgentrupee.com">
+
 
     <meta name="description"
         content="Quick loans available in key Indian cities: Delhi, Mumbai, Hyderabad, Bangalore, and Kolkata. Contact us for quick financial solutions.">

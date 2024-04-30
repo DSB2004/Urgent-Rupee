@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Salary Advance Loan | instant loan in 14 Minutes | Contact Us Now</title>
 
     <meta name="description"
         content="Quick loans available in key Indian cities: Delhi, Mumbai, Hyderabad, Bangalore, and Kolkata. Contact us for quick financial solutions.">
@@ -12,6 +11,33 @@
     <meta name="keywords"
         content="quick loan, cash loan in 1 hour in india, short term loan, mini cash loan, immediate cash loans in india, instant loan without documents, Instant Cash Loan In 1 Hour, Payday Loans, Instant Loans, Online Loan Apply, Instant Loan, Online Loan, Online Loan, Easy Loan, Instant Cash Loan In 1 Hour India, India, delhi, Mumbai, Bangalore, Hyderabad, Kolkata, pune, Chennai, ahmedabad, jaipur, Delhi NCR ">
     <link rel="canonical" href="https://www.urgentrupee.com/contact.php" />
+    <title>Apply for Cash Personal Loan in Ahmedabad | Instant Disbursal in 14 Min </title>
+
+    <meta name="description"
+        content="Instant cash loan in Ahmedabad online with Urgentrupee. Apply for a loan of Rs. 5 lakh at best low interest rate at minimum processing fee. 100% online process." />
+
+    <link rel="canonical" href="https://www.urgentrupee.com/instant-loan-ahmedabad.php" />
+
+    <!-- <h1>/Instant Loan Ahmedabad</h1> -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=" Apply for Cash Personal Loan in Ahmedabad | Instant Disbursal in 14 Min">
+    <meta property="og:description"
+        content=" Instant cash loan in Ahmedabad online with Urgentrupee. Apply for loan of  Rs. 5 lakh at Best low interest rate at minimum processing fee.  100% online process.">
+    <meta property="og:url" content="https://www.urgentrupee.com/instant-loan-ahmedabad.php">
+    <meta property="og:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta content="index, follow" name="robots" />
+    <meta content="all, follow" name="googlebot" />
+    <meta content="all, follow" name="yahoobot" />
+    <meta content="all, follow" name="msnbot" />
+    <meta content="all, follow" name="bingbot" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Urgentrupee ">
+    <meta name="twitter:title" content="Apply for Cash Personal Loan in Ahmedabad | Instant Disbursal in 14 Min">
+    <meta name="twitter:description"
+        content=" Instant cash loan in Ahmedabad online with Urgentrupee. Apply for loan of  Rs. 5 lakh at Best low interest rate at minimum processing fee.  100% online process.">
+    <meta name="twitter:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta name="twitter:image:alt" content="urgentrupee.com">
 
     <meta property="og:type" content="website">
     <meta property="og:title" content=" Salary Advance Loan | instant loan in 14 Minutes | Contact Us Now ">

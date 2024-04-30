@@ -4,7 +4,35 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Salary Advance Loan | instant loan in 14 Minutes | Contact Us Now</title>
+    <title>Online Cash Loan in Kolkata | Instant Approvals 14 Min UrgentRupee</title>
+
+    <meta name="description"
+        content="UrgentRupee offers quick online cash loans in Kolkata with instant approvals, ensuring you get the funds you need in just 14 minutes. Say goodbye to long waits and paperwork hassles. Experience hassle-free borrowing with UrgentRupee today!" />
+
+    <link rel="canonical" href="https://www.urgentrupee.com/instant-loan-kolkata.php
+" />
+<!-- 
+    <h1>Instant Loan in Kolkata</h1> -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=" Online Cash Loan in Kolkata | Instant Approvals 14 Min Urgentrupee">
+    <meta property="og:description"
+        content=" UrgentRupee offers quick online cash loans in Kolkata with instant approvals, ensuring you get the funds you need in just 14 minutes. Say goodbye to long waits and paperwork hassles. Experience hassle-free borrowing with UrgentRupee today!">
+    <meta property="og:url" content="https://www.urgentrupee.com/instant-loan-kolkata.php
+">
+    <meta property="og:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta content="index, follow" name="robots" />
+    <meta content="all, follow" name="googlebot" />
+    <meta content="all, follow" name="yahoobot" />
+    <meta content="all, follow" name="msnbot" />
+    <meta content="all, follow" name="bingbot" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Urgentrupee ">
+    <meta name="twitter:title" content="Online Cash Loan in Kolkata | Instant Approvals 14 Min Urgentrupee">
+    <meta name="twitter:description"
+        content=" UrgentRupee offers quick online cash loans in Kolkata with instant approvals, ensuring you get the funds you need in just 14 minutes. Say goodbye to long waits and paperwork hassles. Experience hassle-free borrowing with UrgentRupee today!">
+    <meta name="twitter:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta name="twitter:image:alt" content="urgentrupee.com">
 
     <meta name="description"
         content="Quick loans available in key Indian cities: Delhi, Mumbai, Hyderabad, Bangalore, and Kolkata. Contact us for quick financial solutions.">

@@ -4,7 +4,34 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Salary Advance Loan | instant loan in 14 Minutes | Contact Us Now</title>
+    <title>Get Instant Loan in 15 Min in Hyderabad with Urgentrupee</title>
+
+    <meta name="description"
+        content=" With us having your back, getting a loan is made easier with UrgentRupee. This is the best platform to provide loans at minimal cost and within hours. Visit our website and get access to hassle-free loans in Hyderabad" />
+
+    <link rel="canonical" href="https://www.urgentrupee.com/instant-loan-hyderabad.php" />
+
+    <!-- <h1>Instant Loan Hyderabad</h1> -->
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=" Get Instant Loan in 15 Min in Hyderabad with Urgentrupee">
+    <meta property="og:description"
+        content=" With us having your back, getting a loan is made easier with UrgentRupee. This is the best platform to provide loans at minimal cost and within hours. Visit our website and access hassle-free loans in Hyderabad.">
+    <meta property="og:url" content="https://www.urgentrupee.com/instant-loan-hyderabad.php">
+    <meta property="og:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta content="index, follow" name="robots" />
+    <meta content="all, follow" name="googlebot" />
+    <meta content="all, follow" name="yahoobot" />
+    <meta content="all, follow" name="msnbot" />
+    <meta content="all, follow" name="bingbot" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Urgentrupee ">
+    <meta name="twitter:title" content="Get Instant Loan in 15 Min in Hyderabad with Urgentrupee">
+    <meta name="twitter:description"
+        content="  With us having your back, getting a loan is made easier with UrgentRupee. This is the best platform to provide loans at minimal cost and within hours. Visit our website and access hassle-free loans in Hyderabad.">
+    <meta name="twitter:image" content="https://www.urgentrupee.com/assets/images/logo-dark.png">
+    <meta name="twitter:image:alt" content="urgentrupee.com">
+
 
     <meta name="description"
         content="Quick loans available in key Indian cities: Delhi, Mumbai, Hyderabad, Bangalore, and Kolkata. Contact us for quick financial solutions.">
