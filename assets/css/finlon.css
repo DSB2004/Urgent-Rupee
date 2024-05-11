@@ -1,3 +1,42 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Utility
+# Cards
+# video
+# Common
+# Form
+# Navigations
+# Animations
+# Mobile Nav
+# Search Popup
+# Page Header
+# Google Map
+# Client Carousel
+# Footer
+# Contact Infos
+# Blog
+# Team
+# Faq
+# Services
+# Career
+# Call to action
+# About
+# fact
+# Testimonial
+# Video
+# Loan Calculator
+# Slider
+# Case
+# Compare
+# Home loan Amortization calculator
+# Home loan eligibility calculator
+# Apply-now
+
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Utility
+--------------------------------------------------------------*/
 .mt-20 {
 	margin-top: 20px;
 }
@@ -234,7 +273,9 @@
 	padding-right: 30px;
 }
 
-
+/*--------------------------------------------------------------
+# Cards
+--------------------------------------------------------------*/
 .video-card {
 	background-color: var(--thm-black);
 	position: relative;
@@ -793,6 +834,9 @@
 	color: var(--thm-base);
 }
 
+/*--------------------------------------------------------------
+# Common
+--------------------------------------------------------------*/
 :root {
 	scroll-behavior: auto;
 	--thm-font: "Inter", sans-serif;
@@ -967,7 +1011,7 @@ h6 {
 .thm-btn {
 	display: inline-block;
 	vertical-align: middle;
-	--webkit-appearance: none;
+	-webkit-appearance: none;
 	border: none;
 	outline: none !important;
 	font-size: 15px !important;
@@ -1148,6 +1192,7 @@ h6 {
 	background-position: center center;
 }
 
+/* scroll to top */
 .scroll-to-top {
 	display: inline-block;
 	width: 45px;
@@ -1179,6 +1224,7 @@ h6 {
 	color: #fff;
 }
 
+/* post paginations */
 .post-pagination {
 	margin-bottom: 0;
 	margin-top: 0px;
@@ -1291,7 +1337,6 @@ h6 {
 	position: relative;
 }
 
-
 .image-box-two__image::before {
 	content: '';
 	width: 270px;
@@ -1332,6 +1377,9 @@ h6 {
 	position: relative;
 }
 
+/*--------------------------------------------------------------
+# Form
+--------------------------------------------------------------*/
 .form-control,
 .form-one input[type="text"],
 .form-one input[type="email"],
@@ -1385,6 +1433,9 @@ h6 {
 	color: #fff;
 }
 
+/*--------------------------------------------------------------
+# Navigations
+--------------------------------------------------------------*/
 .topbar {
 	background-color: var(--thm-black);
 	position: relative;
@@ -1745,6 +1796,10 @@ h6 {
 	left: -5px;
 }
 
+.main-menu,
+.stricky-header {
+	/* after third level no menu */
+}
 
 .main-menu .main-menu__list,
 .main-menu .main-menu__list ul,
@@ -2144,6 +2199,9 @@ h6 {
 	}
 }
 
+/*--------------------------------------------------------------
+# Animations
+--------------------------------------------------------------*/
 @keyframes bubbleMover {
 	0% {
 		transform: translateY(0px) translateX(0) rotate(0);
@@ -2264,6 +2322,9 @@ h6 {
 	}
 }
 
+/*--------------------------------------------------------------
+# Mobile Nav
+--------------------------------------------------------------*/
 .mobile-nav__wrapper {
 	position: fixed;
 	top: 0;
@@ -2530,6 +2591,9 @@ h6 {
 	color: #fff;
 }
 
+/*--------------------------------------------------------------
+# Search Popup
+--------------------------------------------------------------*/
 .search-popup {
 	position: fixed;
 	top: 0;
@@ -2609,6 +2673,9 @@ h6 {
 	margin: 0;
 }
 
+/*--------------------------------------------------------------
+# Page Header
+--------------------------------------------------------------*/
 .page-header {
 	background-color: var(--thm-base);
 	position: relative;
@@ -2698,6 +2765,9 @@ h6 {
 	color: var(--thm-base);
 }
 
+/*--------------------------------------------------------------
+# Google Map
+--------------------------------------------------------------*/
 .google-map__default {
 	width: 100%;
 }
@@ -2710,6 +2780,9 @@ h6 {
 	height: 430px;
 }
 
+/*--------------------------------------------------------------
+# Client Carousel
+--------------------------------------------------------------*/
 .client-carousel {
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -2755,6 +2828,9 @@ h6 {
 	background-color: #c1180b;
 }
 
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
 .main-footer {
 	background-color: var(--thm-black);
 	background-image: url(../images/shapes/footer-bg-1-1.webp);
@@ -2762,6 +2838,7 @@ h6 {
 	background-position: top center;
 	background-blend-mode: luminosity;
 	padding-top: 126px;
+	/*padding-bottom: 110px;*/
 }
 
 .main-footer--extra-padding {
@@ -2955,6 +3032,9 @@ h6 {
 	font-size: 14px;
 }
 
+/*--------------------------------------------------------------
+# Contact Infos
+--------------------------------------------------------------*/
 .contact-info-one {
 	box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
 	background-color: #fff;
@@ -3104,6 +3184,9 @@ h6 {
 	color: #ffffff;
 }
 
+/*--------------------------------------------------------------
+# Blog
+--------------------------------------------------------------*/
 .blog-two {
 	background-image: linear-gradient(0deg, #ffffff 0%, var(--thm-gray) 100%);
 	position: relative;
@@ -3537,6 +3620,9 @@ h6 {
 	}
 }
 
+/*--------------------------------------------------------------
+# Team
+--------------------------------------------------------------*/
 .team-about {
 	position: relative;
 }
@@ -3698,6 +3784,9 @@ h6 {
 	margin-top: 30px;
 }
 
+/*--------------------------------------------------------------
+# Faq
+--------------------------------------------------------------*/
 .faq-form {
 	background-image: linear-gradient(0deg, #ffffff 0%, var(--thm-gray) 100%);
 	position: relative;
@@ -3767,7 +3856,7 @@ h6 {
 }
 
 .accrodion-icon::before,
-.accrodion-icon:after {
+.accrodion-icon::after {
 	content: "";
 	width: 12px;
 	height: 2px;
@@ -3807,6 +3896,9 @@ h6 {
 	margin-top: 20px;
 }
 
+/*--------------------------------------------------------------
+# Services
+--------------------------------------------------------------*/
 .service-card__image {
 	position: relative;
 	overflow: hidden;
@@ -4745,6 +4837,9 @@ h6 {
 	margin-right: auto;
 }
 
+/*--------------------------------------------------------------
+# Career
+--------------------------------------------------------------*/
 .career-one__item {
 	padding-left: 30px;
 	padding-right: 30px;
@@ -4887,6 +4982,9 @@ h6 {
 	margin: 0;
 }
 
+/*--------------------------------------------------------------
+# Call to action
+--------------------------------------------------------------*/
 .call-to-action-one--has-bottom-margin {
 	margin-bottom: -60px;
 }
@@ -5176,6 +5274,9 @@ h6 {
 	background-image: url(../images/shapes/cta-4-2.webp);
 }
 
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
 .about-one {
 	background-image: url(../images/shapes/contact-page-form-1-1.webp);
 	background-repeat: no-repeat;
@@ -6839,6 +6940,9 @@ h6 {
 	border-radius: 4px;
 }
 
+/*--------------------------------------------------------------
+# fact
+--------------------------------------------------------------*/
 .fact-one {
 	background-image: url(../images/shapes/fact-bg-1-1.webp);
 	background-color: var(--thm-black);
@@ -6875,6 +6979,9 @@ h6 {
 	margin-top: 23px;
 }
 
+/*--------------------------------------------------------------
+# Testimonial
+--------------------------------------------------------------*/
 .testimonial-card {
 	background-color: #fff;
 	box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.1);
@@ -7275,6 +7382,9 @@ h6 {
 	}
 }
 
+/*--------------------------------------------------------------
+# Video
+--------------------------------------------------------------*/
 .video-one {
 	background-color: var(--thm-black);
 	background-attachment: fixed;
@@ -7452,6 +7562,9 @@ h6 {
 	margin-right: 20px;
 }
 
+/*--------------------------------------------------------------
+# Loan Calculator
+--------------------------------------------------------------*/
 .loan-calculator {
 	position: relative;
 	z-index: 10;
@@ -7808,6 +7921,9 @@ h6 {
 	display: none;
 }
 
+/*--------------------------------------------------------------
+# Slider
+--------------------------------------------------------------*/
 .slider-one {
 	position: relative;
 }
@@ -8215,6 +8331,9 @@ h6 {
 	}
 }
 
+/*--------------------------------------------------------------
+# Case
+--------------------------------------------------------------*/
 .case-card-one {
 	position: relative;
 	background-color: var(--thm-black);
@@ -8314,6 +8433,9 @@ h6 {
 	margin-top: 45px;
 }
 
+/*--------------------------------------------------------------
+# Custom Cursor
+--------------------------------------------------------------*/
 .custom-cursor__cursor {
 	width: 25px;
 	height: 25px;
@@ -8356,6 +8478,9 @@ h6 {
 	opacity: .4;
 }
 
+/*--------------------------------------------------------------
+# Compare
+--------------------------------------------------------------*/
 .loan-comparison__body .form-input {
 	margin-bottom: 30px;
 	display: flex;
@@ -8437,6 +8562,10 @@ h6 {
 	background-color: var(--thm-primary);
 }
 
+/*--------------------------------------------------------------
+# Home loan Amortization calculator
+--------------------------------------------------------------*/
+
 .amortization-schedule {
 	margin-bottom: 60px;
 	overflow-x: auto;
@@ -8514,6 +8643,14 @@ h6 {
 }
 
 @media(max-width: 768px) {
+	/*.amortization-schedule .amortization-title-inner.total-payment-title,
+	.amortization-column.sum .amortization-data.total-payment-sum,
+	.amortization-schedule .amortization-data.total-payment{
+		display: none;
+	}*/
+}
+
+@media(max-width: 768px) {
 	.amortization-schedule .amortization-data {
 		font-size: 14px;
 		padding-top: 10px;
@@ -8579,8 +8716,12 @@ h6 {
 	border-radius: 0;
 }
 
+/*--------------------------------------------------------------
+# Home loan eligibility calculator
+--------------------------------------------------------------*/
 
 .eligibility-button {
+	/*width: 100%;*/
 	text-align: center;
 }
 
@@ -8636,6 +8777,11 @@ h6 {
 		max-width: 100%;
 	}
 }
+
+
+/*--------------------------------------------------------------
+# Apply-now
+--------------------------------------------------------------*/
 
 .finloan-apply-one {
 	padding-top: 120px;
