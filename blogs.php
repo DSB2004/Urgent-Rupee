@@ -186,7 +186,6 @@
                     // Extract item details
                     $heading = $item['heading'];
                     $img = $item['img'];
-                    $intro = $item['intro'];
                     $id = $item['id'];
                     $by = $item['by'];
                     $date = $item['date'];
