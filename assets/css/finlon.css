@@ -3071,8 +3071,8 @@ h6 {
 	.contact-info-one__item {
 		text-align: left;
 		justify-content: flex-start;
-		padding-top: 60px;
-		padding-bottom: 60px;
+		padding-top: 20px;
+		padding-bottom: 20px;
 	}
 }
 
