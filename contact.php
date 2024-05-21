@@ -225,6 +225,17 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-7 col-sm-12">
+                        <div class="contact-info-one__item">
+                            <div class="contact-info-one__icon">
+                                <i class="icon-pin"></i>
+                            </div>
+                            <div class="contact-info-one__content">
+                                <p class="contact-info-one__text">Headquarter (RBI Registered Address)</p>
+                                <a class="contact-info-one__link" href="#">C-20, Chirag Enclave, New Delhi - 110048</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
